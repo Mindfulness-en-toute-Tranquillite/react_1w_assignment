@@ -17,7 +17,7 @@ function Layout() {
         <header
         style={styleTitleLayout}>
             My Todo List  
-            <span style={{padding: '450pt'}}></span> 
+            <span style={{padding: '350pt'}}></span> 
             React
         </header>
     </div>

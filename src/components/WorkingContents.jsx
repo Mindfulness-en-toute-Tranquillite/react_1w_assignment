@@ -6,9 +6,6 @@
 // const [squres, setSqures] = useState(
 //     [{ id:1, title: "제목", content: "내용"}]
 // );
-
-// const [name, setName] = useState
-
 //   return (
 //     <div className='app.style'>
 //         {

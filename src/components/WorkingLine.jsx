@@ -1,8 +1,11 @@
 import React from 'react';
 
+
 function WorkingLine() {
   return (
-    <div>Working line</div>
+    <div className='workingline-style'>
+      Working🔥
+    </div>
   )
 }
 

@@ -2,7 +2,9 @@ import React from 'react'
 
 function DoneLine() {
   return (
-    <div>Done Line</div>
+    <div className='doneline-style'>
+      Done👍
+    </div>
   )
 }
 

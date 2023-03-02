@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* @font-face {
+	font-family: "googleNanumGothic";
+	src: url(./fonts/Nanum_Gothic/NanumGothic-Regular.ttf);
+} */
+
+/* :root {
+	--font--googleNaumGothic
+	--font-googleSingleDay: "googleSingleDay";
+} */
